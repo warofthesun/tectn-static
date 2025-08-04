@@ -1,0 +1,1 @@
+# tectn-static
